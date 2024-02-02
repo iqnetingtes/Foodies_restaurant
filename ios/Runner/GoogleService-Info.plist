@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>149898860125-srco7it1p8cgs5iae7s0e933n8b1n5uq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.149898860125-srco7it1p8cgs5iae7s0e933n8b1n5uq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqF7C9R2ht8DEJ22TVjjaMD2nWacdZtU4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>149898860125</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.foodies.restaurant.ios</string>
+	<key>PROJECT_ID</key>
+	<string>uberapp-e73f8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uberapp-e73f8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:149898860125:ios:23d2b6133286b3c7315fb4</string>
+</dict>
+</plist>

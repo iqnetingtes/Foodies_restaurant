@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "149898860125",
+    "project_id": "uberapp-e73f8",
+    "storage_bucket": "uberapp-e73f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149898860125:android:a54210b556399587315fb4",
+        "android_client_info": {
+          "package_name": "com.iqneting.restaurant.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149898860125-odi7go9c4gvcov93fuqhdmr5oftafvn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEQkVc1Poe0b2CpfLFv9U6KRVVm_Y5zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149898860125-odi7go9c4gvcov93fuqhdmr5oftafvn0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149898860125-srco7it1p8cgs5iae7s0e933n8b1n5uq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodies.restaurant.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
